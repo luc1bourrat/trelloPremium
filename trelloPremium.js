@@ -1,3 +1,5 @@
+console.log("Script from github");
+
 const colorMap = {
   'PRIORITY': '#5d1f1a',
   'DONE': '#164b35',
